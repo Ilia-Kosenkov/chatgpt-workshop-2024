@@ -9,7 +9,7 @@
   - AgriFood: Food and beverage products
   - TextilePro: Clothing and textiles
 
-#### **2. Procurement Policies (Volatile):**
+#### **2. Procurement Policies:**
 - **Current Policies:**
   - Prioritize cost-effective suppliers, with infrequent shifts in preferred vendors
   - Quarterly supplier performance reviews, but with inconsistent criteria
