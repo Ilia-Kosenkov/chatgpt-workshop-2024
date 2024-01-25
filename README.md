@@ -1,4 +1,4 @@
-# chatgpt-workshop-2024# ChatGPT Workshop 2024
+# ChatGPT Workshop 2024
 
 - [Scenario 1](scenario-1)
 - [Scenario 2](scenario-2)
